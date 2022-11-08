@@ -1,0 +1,7 @@
+---,Name,Cost,IsBuildableByPlayer,Type
+House,House,5,TRUE,Housing
+Mine,Mine,10,TRUE,Economic
+Bakery,Bakery,15,TRUE,Economic
+Factory,Factory,20,TRUE,Economic
+Slug Place,Slug Place,0,FALSE,Enemy
+Lumber Mill,Lumber Mill,5,TRUE,Economic
